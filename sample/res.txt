@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "http://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>89</Count><RetMax>20</RetMax><RetStart>0</RetStart><QueryKey>1</QueryKey><WebEnv>NCID_1_16563043_165.112.9.37_9001_1416602639_585181515_0MetA0_S_MegaStore_F_1</WebEnv><IdList>
+<Id>73417171</Id>
+<Id>71593881</Id>
+<Id>71586755</Id>
+<Id>71309054</Id>
+<Id>69975280</Id>
+<Id>69725476</Id>
+<Id>56843206</Id>
+<Id>56842252</Id>
+<Id>56841602</Id>
+<Id>56841579</Id>
+<Id>56841578</Id>
+<Id>54681542</Id>
+<Id>46780045</Id>
+<Id>44149172</Id>
+<Id>44144595</Id>
+<Id>44119558</Id>
+<Id>29971035</Id>
+<Id>25157143</Id>
+<Id>24936226</Id>
+<Id>24847966</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>aspirin[All Fields]</Term>    <Field>All Fields</Field>    <Count>116</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>aspirin[All Fields]</QueryTranslation></eSearchResult>

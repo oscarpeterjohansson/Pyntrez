@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20060131//EN" "http://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060131/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>25373801</Id>
+	<Item Name="CID" Type="Integer">25373801</Item>
+	<Item Name="SourceNameList" Type="List"></Item>
+	<Item Name="SourceIDList" Type="List"></Item>
+	<Item Name="SourceCategoryList" Type="List">
+		<Item Name="string" Type="String">Substance Vendors</Item>
+		<Item Name="string" Type="String">Theoretical Properties</Item>
+	</Item>
+	<Item Name="CreateDate" Type="Date">2009/05/27 00:00</Item>
+	<Item Name="SynonymList" Type="List">
+		<Item Name="string" Type="String">ZINC12583326</Item>
+	</Item>
+	<Item Name="MeSHHeadingList" Type="List"></Item>
+	<Item Name="MeSHTermList" Type="List"></Item>
+	<Item Name="PharmActionList" Type="List"></Item>
+	<Item Name="CommentList" Type="List"></Item>
+	<Item Name="IUPACName" Type="String">ethyl-[[(3S)-1-[2-(3-methoxyphenyl)ethyl]piperidin-1-ium-3-yl]methyl]-[(3-methylquinoxalin-2-yl)methyl]azanium</Item>
+	<Item Name="CanonicalSmiles" Type="String">CC[NH+](CC1CCC[NH+](C1)CCC2=CC(=CC=C2)OC)CC3=NC4=CC=CC=C4N=C3C</Item>
+	<Item Name="IsomericSmiles" Type="String">CC[NH+](C[C@H]1CCC[NH+](C1)CCC2=CC(=CC=C2)OC)CC3=NC4=CC=CC=C4N=C3C</Item>
+	<Item Name="RotatableBondCount" Type="Integer">9</Item>
+	<Item Name="MolecularFormula" Type="String">C27H38N4O+2</Item>
+	<Item Name="MolecularWeight" Type="String">434.616820</Item>
+	<Item Name="TotalFormalCharge" Type="Integer">2</Item>
+	<Item Name="XLogP" Type="String">4.6</Item>
+	<Item Name="HydrogenBondDonorCount" Type="Integer">2</Item>
+	<Item Name="HydrogenBondAcceptorCount" Type="Integer">3</Item>
+	<Item Name="Complexity" Type="String">546.000000</Item>
+	<Item Name="HeavyAtomCount" Type="Integer">32</Item>
+	<Item Name="AtomChiralCount" Type="Integer">1</Item>
+	<Item Name="AtomChiralDefCount" Type="Integer">1</Item>
+	<Item Name="AtomChiralUndefCount" Type="Integer">0</Item>
+	<Item Name="BondChiralCount" Type="Integer">0</Item>
+	<Item Name="BondChiralDefCount" Type="Integer">0</Item>
+	<Item Name="BondChiralUndefCount" Type="Integer">0</Item>
+	<Item Name="IsotopeAtomCount" Type="Integer">0</Item>
+	<Item Name="CovalentUnitCount" Type="Integer">1</Item>
+	<Item Name="TautomerCount" Type="Integer">1</Item>
+	<Item Name="SubstanceIDList" Type="List"></Item>
+	<Item Name="TPSA" Type="String">43.9</Item>
+	<Item Name="AssaySourceNameList" Type="List"></Item>
+	<Item Name="MinAC" Type="String"></Item>
+	<Item Name="MaxAC" Type="String"></Item>
+	<Item Name="MinTC" Type="String"></Item>
+	<Item Name="MaxTC" Type="String"></Item>
+	<Item Name="ActiveAidCount" Type="Integer">0</Item>
+	<Item Name="InactiveAidCount" Type="Integer">0</Item>
+	<Item Name="TotalAidCount" Type="Integer">0</Item>
+	<Item Name="InChIKey" Type="String">MNKAXBDKYIIBOI-HSZRJFAPSA-P</Item>
+	<Item Name="InChI" Type="String">InChI=1S/C27H36N4O/c1-4-30(20-27-21(2)28-25-12-5-6-13-26(25)29-27)18-23-10-8-15-31(19-23)16-14-22-9-7-11-24(17-22)32-3/h5-7,9,11-13,17,23H,4,8,10,14-16,18-20H2,1-3H3/p+2/t23-/m1/s1</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25375093</Id>
+	<Item Name="CID" Type="Integer">25375093</Item>
+	<Item Name="SourceNameList" Type="List"></Item>
+	<Item Name="SourceIDList" Type="List"></Item>
+	<Item Name="SourceCategoryList" Type="List">
+		<Item Name="string" Type="String">Substance Vendors</Item>
+		<Item Name="string" Type="String">Theoretical Properties</Item>
+	</Item>
+	<Item Name="CreateDate" Type="Date">2009/05/27 00:00</Item>
+	<Item Name="SynonymList" Type="List">
+		<Item Name="string" Type="String">ZINC12585230</Item>
+	</Item>
+	<Item Name="MeSHHeadingList" Type="List"></Item>
+	<Item Name="MeSHTermList" Type="List"></Item>
+	<Item Name="PharmActionList" Type="List"></Item>
+	<Item Name="CommentList" Type="List"></Item>
+	<Item Name="IUPACName" Type="String">[4-[(2,6-dibromo-4-methylphenoxy)methyl]phenyl]-[(2S,6R)-2,6-dimethylmorpholin-4-yl]methanone</Item>
+	<Item Name="CanonicalSmiles" Type="String">CC1CN(CC(O1)C)C(=O)C2=CC=C(C=C2)COC3=C(C=C(C=C3Br)C)Br</Item>
+	<Item Name="IsomericSmiles" Type="String">C[C@@H]1CN(C[C@@H](O1)C)C(=O)C2=CC=C(C=C2)COC3=C(C=C(C=C3Br)C)Br</Item>
+	<Item Name="RotatableBondCount" Type="Integer">4</Item>
+	<Item Name="MolecularFormula" Type="String">C21H23Br2NO3</Item>
+	<Item Name="MolecularWeight" Type="String">497.220220</Item>
+	<Item Name="TotalFormalCharge" Type="Integer">0</Item>
+	<Item Name="XLogP" Type="String">5.1</Item>
+	<Item Name="HydrogenBondDonorCount" Type="Integer">0</Item>
+	<Item Name="HydrogenBondAcceptorCount" Type="Integer">3</Item>
+	<Item Name="Complexity" Type="String">476.000000</Item>
+	<Item Name="HeavyAtomCount" Type="Integer">27</Item>
+	<Item Name="AtomChiralCount" Type="Integer">2</Item>
+	<Item Name="AtomChiralDefCount" Type="Integer">2</Item>
+	<Item Name="AtomChiralUndefCount" Type="Integer">0</Item>
+	<Item Name="BondChiralCount" Type="Integer">0</Item>
+	<Item Name="BondChiralDefCount" Type="Integer">0</Item>
+	<Item Name="BondChiralUndefCount" Type="Integer">0</Item>
+	<Item Name="IsotopeAtomCount" Type="Integer">0</Item>
+	<Item Name="CovalentUnitCount" Type="Integer">1</Item>
+	<Item Name="TautomerCount" Type="Integer">1</Item>
+	<Item Name="SubstanceIDList" Type="List"></Item>
+	<Item Name="TPSA" Type="String">38.8</Item>
+	<Item Name="AssaySourceNameList" Type="List"></Item>
+	<Item Name="MinAC" Type="String"></Item>
+	<Item Name="MaxAC" Type="String"></Item>
+	<Item Name="MinTC" Type="String"></Item>
+	<Item Name="MaxTC" Type="String"></Item>
+	<Item Name="ActiveAidCount" Type="Integer">0</Item>
+	<Item Name="InactiveAidCount" Type="Integer">0</Item>
+	<Item Name="TotalAidCount" Type="Integer">0</Item>
+	<Item Name="InChIKey" Type="String">AVQNYKCERVWGSQ-GASCZTMLSA-N</Item>
+	<Item Name="InChI" Type="String">InChI=1S/C21H23Br2NO3/c1-13-8-18(22)20(19(23)9-13)26-12-16-4-6-17(7-5-16)21(25)24-10-14(2)27-15(3)11-24/h4-9,14-15H,10-12H2,1-3H3/t14-,15+</Item>
+</DocSum>
+
+</eSummaryResult>
